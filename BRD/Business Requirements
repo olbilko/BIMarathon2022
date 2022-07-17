@@ -1,1 +1,25 @@
+Business Requirements Documentation (BRD)Template
+
+Requester(s): 
+Date: 
+Audience (intended users): 
+Geographical Impact: 
+Requested go live date: 
+
+Problem Statement
+
+Not all customers know what they want, it is our job to figure out the customer underlying pains and seek for the ideal way to address them. 
+What are the business questions this report will answer? 
+Ensure the questions are tie to KPIs and success metrics. 
+Business Justification (Benefits/ROI)
+
+A mechanism to ensure that …This dashboard should serve as a trusted mechanism to drive discussion around ... Ultimately, this reporting will be used to drive ... Success will be measured by 1), 2), 3) …
+
+List of desired fields along the user story in the dashboard
+Field Name	Field Definition	Calculation Logic
+Sales	Monthly Sales across countries	SUM(sales) by Country
+		
+		
+		
+		
 
